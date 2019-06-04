@@ -6,7 +6,7 @@ This plugin exposes information on the status of various accessibility features 
 ---------------
 ## Installation
 
-    $ cordova plugin add https://github.com/phonegap/phonegap-mobile-accessibility.git
+    $ ionic cordova plugin add @osvlabs/phonegap-plugin-mobile-accessibility@latest
 
 ----------------------
 ## Supported Platforms

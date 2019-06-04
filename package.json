@@ -1,5 +1,5 @@
 {
-  "name": "phonegap-plugin-mobile-accessibility",
+  "name": "@osvlabs/phonegap-plugin-mobile-accessibility",
   "description": "PhoneGap Mobile Accessibility Plugin",
   "version": "1.0.6",
   "homepage": "https://github.com/osvlabs/phonegap-mobile-accessibility#readme",
